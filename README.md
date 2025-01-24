@@ -1,1 +1,1 @@
-This file contains entire code for Diginose user interface. It is further explain in the bachelor thesis.
+Code is used to create an user interface for the purpose of interacting with electronic nose.
